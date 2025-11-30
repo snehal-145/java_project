@@ -56,7 +56,7 @@ GUI Version:
 
 Open the GUI project in your IDE.
 
-Run the main GUI class (EventManagementGUI.java).
+Run the main GUI class (EventManager.java).
 
 The application window will open for admin or participant operations.
 
