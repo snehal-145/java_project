@@ -1,34 +1,36 @@
 **Event Management System**
 
-Overview
+##Overview
 
 This is a Core Java Event Management System with both Console-based and GUI-based versions. 
 It allows admins to manage events and participants efficiently and provides participants the ability to view and participate in events.
 
-Features
-Admin Features:
+##Features: 
 
-Add, update, and delete events
+**Admin Features:
 
-View participant details
+- Add, update, and delete events
 
-Collect registration fees
+- View participant details
 
-Participant Features:
+- Collect registration fees
 
-View available events
+**Participant Features:
 
-Register and participate in events
+- View available events
 
-Technologies Used
+- Register and participate in events
 
-Java SE (Core Java)
+##Technologies Used
 
-Swing (for GUI version)
+- Java SE (Core Java)
 
-File I/O (for data storage in console version)
+- Swing (for GUI version)
 
-Project Structure
+- File I/O (for data storage in console version)
+
+
+##Project Structure
 java_project/
 │
 ├─ src/
@@ -38,27 +40,27 @@ java_project/
 ├─ README.md
 
 
-How to Run
-Console Version:
+##How to Run
 
-Open the project in any Java IDE (Eclipse, IntelliJ, NetBeans) or terminal.
+**Console Version:
 
-Compile the source files:
+- Open the project in any Java IDE (Eclipse, IntelliJ, NetBeans) or terminal.
 
-javac *.java
+- Compile the source files:
 
+     javac *.java
+  
+ - Run the main class:
 
-Run the main class:
+     java Main
 
-java Main
+**GUI Version:
 
-GUI Version:
+- Open the GUI project in your IDE.
 
-Open the GUI project in your IDE.
+- Run the main GUI class (EventManager.java).
 
-Run the main GUI class (EventManager.java).
-
-The application window will open for admin or participant operations.
+- The application window will open for admin or participant operations.
 
 
 
